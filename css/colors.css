@@ -192,7 +192,7 @@ section.yellow_patter .main-heading::after {
     color: #111;
 }
 .theme_light_pink i {
-    color: #913175;
+    color: #005a5a;
 }
 .theme_light_pink footer#footer i.fa-angle-right {
     color: #dd5a82;
@@ -201,7 +201,7 @@ section.yellow_patter .main-heading::after {
     border-color: #dd5a82;
 }
 .theme_light_pink .main-heading::after {
-    background: #dd5a82;
+    background: #005a5a;
 }
 .theme_light_pink .m-testimonial .carousel-indicators li.active {
     background: #dd5a82;
@@ -214,7 +214,7 @@ section.yellow_patter .main-heading::after {
     border-color: #dd5a82;
 }
 .theme_light_pink .footer-bottom {
-    background: #74275f;
+    background: #005a5a;
 }
 .theme_light_pink .footer_mail-section form .field input {
     background: #9c4683;
@@ -223,7 +223,7 @@ section.yellow_patter .main-heading::after {
     background: #dd5b82;
 }
 .theme_light_pink footer#footer {
-    background: #913175;
+    background: #009f81;
 }
 .theme_light_pink .footer-menu li a,
 .theme_light_pink footer p,
