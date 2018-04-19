@@ -26,13 +26,13 @@
     color: #111;
 }
 .theme_green i {
-    color: #a0cc0e;
+    color: #737B7F; /*#a0cc0e;*/
 }
 .theme_green #navbar_menu ul ul {
     border-color: #a0cc0e;
 }
 .theme_green .main-heading::after {
-    background: #a0cc0e;
+    background: #737B7F; /*#a0cc0e;*/
 }
 .theme_green .m-testimonial .carousel-indicators li.active {
     background: #a0cc0e;
