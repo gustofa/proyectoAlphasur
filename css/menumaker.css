@@ -351,8 +351,19 @@
 }
 #navbar_menu ul ul {
     border-top: solid #f1c40f 4px;
-    width: 180px;
     box-shadow: 0px 15px 30px -35px #000;
+}
+#ul1 {
+    width: 93.15px;	
+}
+#ul2 {
+    width: 131.66px;	
+}
+#ul3 {
+    width: 121.66px;	
+}
+#ul4 {
+    width: 129.03px;	
 }
 #navbar_menu ul ul li a:hover,
 #navbar_menu ul ul li a:focus {

@@ -531,7 +531,7 @@ button.button_custom i {
 }
 .menu-style_2 {
     float: right;
-    margin: 29px 6px 29px 0;
+    margin: 55px 0px 55px 0;
     width: 68%;
 }
 /*== search bar end ==*/
@@ -544,7 +544,7 @@ button.button_custom i {
 -------------------------------------------------------------------*/
 
 #main-banner {
-    min-height: 800px;
+    min-height: 600px;
     position: relative;
     background: #2b3741;
 }
@@ -1195,7 +1195,7 @@ section.dark-section h4 {
 #home_page4 section#main-banner {
     /*min-height: 300px;*/
     padding-top: 50px;
-    background-image: url('../images/layer-botton-dark.png');
+    /*background-image: url('../images/layer-botton-dark.png');*/
     background-position: center bottom;
     background-repeat: no-repeat;
     /*background-size: cover;*/

@@ -25,9 +25,9 @@
 .theme_green .button_custom_color:focus {
     color: #111;
 }
-.theme_green i {
-    color: #737B7F; /*#a0cc0e;*/
-}
+/*.theme_green i {
+    color: #a0cc0e; #737B7F;
+}*/
 .theme_green #navbar_menu ul ul {
     border-color: #a0cc0e;
 }
