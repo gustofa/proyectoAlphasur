@@ -2338,6 +2338,9 @@ footer p a {
 .social_icons li.gp a {
     background: #de4d3b;
 }
+.social_icons li.in a {
+    background: #0073b1;
+}
 .social_icons li a i {
     color: #fff;
     font-size: 18px;

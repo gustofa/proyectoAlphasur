@@ -167,10 +167,12 @@
     font-weight: 500;
     color: #2b3741;
 }
+/*
 section.yellow_patter h2,
 section.yellow_patter p {
     color: #34495e;
 }
+*/
 section.yellow_patter .main-heading::after {
     background: #34495e;
 }
